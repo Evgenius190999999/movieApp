@@ -1,0 +1,26 @@
+@import '../../common/colors.scss';
+
+.movie-list {
+    margin: 20px 0px;
+    h2 {
+        color: $font-secondary;
+        margin-bottom: 10px;
+        font-weight: 400;
+    }
+}
+
+.show-list {
+    margin: 20px 0px;
+    h2 {
+        color: $font-secondary;
+        margin-bottom: 10px;
+        font-weight: 400;
+    }
+}
+
+.movie-loagind {
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+    margin: 40px 0px;
+}
